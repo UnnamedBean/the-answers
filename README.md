@@ -1,2 +1,6 @@
-# the-answers
-this is related to the website https://tiwoacdm.neocities.org/ that i own &lt;3
+this readme serves as the main way of communicating the answers:
+basically, in my website https://tiwoacdm.neocities.org/ there is a section about finding the meaning of the codeword used in my code "gentr"
+here:
+gen - general
+t - text
+r - right
